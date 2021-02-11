@@ -1,4 +1,7 @@
-### Hi there 👋
+### About me 👨‍🎓
+
+- I am an M.Sc. Student in Methodology and Statistics at Utrecht University, The Netherlands.
+- My research interests are Bayesian inference, structural equation modeling, hypothesis testing, and metascience.
 
 <!--
 **IhnwhiHeo/ihnwhiheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
