@@ -2,7 +2,7 @@
 
 - I am an M.Sc. Student in Methodology and Statistics at Utrecht University, The Netherlands.
 - My research interests are Bayesian inference, structural equation modeling, hypothesis testing, and metascience.
-- What made me special is not myself. Instead, all the awesome people around me including, but not limited to, advisors, teachers, classmates, and my students made me meaningful. **I appreciate all of you who influenced me. Thank you, all.**
+- What made me special is not myself. Instead, all the awesome people around me including, but not limited to, family, friends, advisors, teachers, classmates, and my students made me meaningful. **I appreciate all of you who influenced me. Thank you, all.**
 
 <!--
 **IhnwhiHeo/ihnwhiheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
