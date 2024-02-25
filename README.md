@@ -1,6 +1,6 @@
 ### About me 👨‍🎓
 
-- I am a Ph.D. Student in Quantitative Methods, Measurement, and Statistics at the University of California, Merced.
+- I am a Ph.D. Candidate in Quantitative Methods, Measurement, and Statistics at the University of California, Merced.
 
 <!--
 **IhnwhiHeo/ihnwhiheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
