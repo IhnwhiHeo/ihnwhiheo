@@ -1,6 +1,8 @@
 ### About me 👨‍🎓
 
-- I am a Ph.D. Candidate in Quantitative Methods, Measurement, and Statistics at the University of California, Merced.
+- I will join the University of Oklahoma as an Assistant Professor of Quantitative Psychology in August 2026.
+
+- I completed a Ph.D. in Quantitative Methods, Measurement, and Statistics at the University of California, Merced in 2026.
 
 <!--
 **IhnwhiHeo/ihnwhiheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
