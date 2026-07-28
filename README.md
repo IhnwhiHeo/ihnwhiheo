@@ -1,6 +1,6 @@
 ### About me 👨‍🎓
 
-- I will join the University of Oklahoma as an Assistant Professor of Quantitative Psychology in August 2026.
+- I am an Assistant Professor of Quantitative Psychology at the University of Oklahoma.
 
 - I completed a Ph.D. in Quantitative Methods, Measurement, and Statistics at the University of California, Merced in 2026.
 
